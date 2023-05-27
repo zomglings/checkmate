@@ -1,0 +1,25 @@
+{
+  "name": "checkmate-eth",
+  "version": "0.0.1",
+  "description": "A Javascript tool that checks membership of events in blocks off-chain.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zomglings/checkmate.git"
+  },
+  "author": "zomglings (neeraj@moonstream.to)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zomglings/checkmate/issues"
+  },
+  "homepage": "https://github.com/zomglings/checkmate#readme",
+  "dependencies": {
+    "commander": "^10.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}

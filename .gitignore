@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# custom
+
+# Please don't commit lockfiles
+package-lock.json
+yarn.lock
+
+.vscode/
